@@ -135,7 +135,7 @@ body {
 }
 
 .team {
-    background-color: var(--auxiliary-background-color);
+    background-color: var(--button-background-color);
 }
 
 .team-item {
